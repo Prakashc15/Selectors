@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="./css1/style.css">
+<head>
+</head>
+<body>
+<h1 class="wit">Choose the mobile<h1>
+<br>
+<div id="rate">
+<ul>
+<li>Vivo T1 5G</li>
+<li>Vivo T1 Pro 5G</li>
+<li>Vivo T1 44W</li>
+<li>Vivo X80</li>
+<li>Vivo X80</li>
+</ul>
+</div>
+<br>
+<p class="rate1">
+<ul>
+<li>Xiaomi Redmi Note 12 Pro 5G</li>
+<li>Xiaomi Redmi Note 12 Pro Plus 5G</li>
+<li>Xiaomi Redmi Note 12</li>
+<li>Xiaomi Redmi Note 11 Pro Plus 5G</li>
+<li>Xiaomi Redmi Note 11 SE</li>
+</ul>
+</p>
+<br>
+<p>Sorry sir we have only two company models</p>
+<br>
+<h2>Order your another model</h2>
+<div>
+<p>044-456789</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+.wit{
+text-align:center;
+color:green;
+}
+#rate{
+
+color:lightgreen
+}
+.rate1{
+
+color:yellow;
+}
+p{
+
+color:blue;
+}
+*{
+
+color:purple;
+}
+div p{
+
+color:gray;
+}

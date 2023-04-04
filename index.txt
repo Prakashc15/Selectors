@@ -26,7 +26,7 @@
 </ul>
 </div>
 <br>
-<p>Sorry sir we have only two company models</p>
+<p class="we">Sorry sir we have only two company models</p>
 <br>
 <h2>Order your another model</h2>
 <div>
